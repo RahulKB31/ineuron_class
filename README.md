@@ -1,1 +1,1 @@
-# ineuron_class
+# ineuron_python_class
