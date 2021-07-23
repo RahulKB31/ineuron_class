@@ -1,6 +1,0 @@
-root - 2021-07-23 21:05:54,033 - INFO - main log
-user1 - 2021-07-23 21:05:54,038 - INFO - this is from user1 info
-user2 - 2021-07-23 21:05:54,040 - DEBUG - This is from user2 debug
-root - 2021-07-23 21:06:09,376 - INFO - main log
-user1 - 2021-07-23 21:06:09,378 - INFO - This is from user1 info
-user2 - 2021-07-23 21:06:09,382 - DEBUG - This is from user2 debug
